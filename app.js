@@ -4,11 +4,12 @@ const fileUpload = require('express-fileupload');
 const session = require('express-session');
 const cookieParser = require('cookie-parser');
 const flash = require('connect-flash');
-const connection = require("./connection/connection.js")
+
 const app = express();
 const port = process.env.PORT || 4000;
 
-require('dotenv').config();
+// require('dotenv').config();
+require('dotenv').config({ path: 'MONGODB_URI' });
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
@@ -29,8 +30,8 @@ app.set('view engine', 'ejs');
 const routes = require('./server/routes/recipeRoutes.js')
 app.use('/', routes);
 
-app.listen(port, async () => {
+app.listen(port, () => {
     console.log(`Listening to port ${port}`)
-    await connection.conn();
+
 }
 );
