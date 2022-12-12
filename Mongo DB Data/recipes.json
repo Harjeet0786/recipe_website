@@ -12,7 +12,7 @@
       "200 ml double cream"
     ],
     "category": "American",
-    "image": "crab-cakes.jpg",
+    "image": "food.jpg",
     "__v": 0
   },{
     "_id": {
@@ -29,7 +29,7 @@
       "½ a bunch of fresh coriander"
     ],
     "category": "Thai",
-    "image": "thai-style-mussels.jpg",
+    "image": "maxican.jpg",
     "__v": 0
   },{
     "_id": {
@@ -46,7 +46,7 @@
       "1 fresh red chilli"
     ],
     "category": "Thai",
-    "image": "thai-inspired-vegetable-broth.jpg",
+    "image": "sandwitch.jpg",
     "__v": 0
   },{
     "_id": {
@@ -63,7 +63,7 @@
       "1 pinch Chinese five-spice powder"
     ],
     "category": "Chinese",
-    "image": "thai-chinese-inspired-pinch-salad.jpg",
+    "image": "spicy.jpg",
     "__v": 0
   },{
     "_id": {
@@ -83,7 +83,7 @@
       "1 level teaspoon hot smoked paprika"
     ],
     "category": "American",
-    "image": "southern-friend-chicken.jpg",
+    "image": "chhineese.jpg",
     "__v": 0
   },{
     "_id": {
@@ -103,7 +103,7 @@
       "olive oil"
     ],
     "category": "American",
-    "image": "chocolate-banoffe-whoopie-pies.jpg",
+    "image": "spicy.jpg",
     "__v": 0
   },{
     "_id": {
@@ -120,7 +120,7 @@
       "low-salt soy sauce"
     ],
     "category": "Thai",
-    "image": "veggie-pad-thai.jpg",
+    "image": "chocko.jpg",
     "__v": 0
   },{
     "_id": {
@@ -137,7 +137,7 @@
       "1 bunch of spring onions"
     ],
     "category": "Chinese",
-    "image": "chinese-steak-tofu-stew.jpg",
+    "image": "publish-recipe.jpg",
     "__v": 0
   },{
     "_id": {
@@ -154,7 +154,7 @@
       "3 spring onions"
     ],
     "category": "Chinese",
-    "image": "spring-rolls.jpg",
+    "image": "japanies.jpg",
     "__v": 0
   },{
     "_id": {
@@ -172,7 +172,7 @@
       "2 x 120 g free-range chicken breasts , skin on"
     ],
     "category": "Chinese",
-    "image": "tom-daley.jpg",
+    "image": "spicy.jpg",
     "__v": 0
   },{
     "_id": {
@@ -192,7 +192,7 @@
       "olive oil"
     ],
     "category": "American",
-    "image": "crab-cakes.jpg",
+    "image": "chhineese.jpg",
     "__v": 0
   },{
     "_id": {
@@ -207,7 +207,7 @@
       "1 bunch of fresh coriander (30g)"
     ],
     "category": "Thai",
-    "image": "thai-red-chicken-soup.jpg",
+    "image": "chocko.jpg",
     "__v": 0
   },{
     "_id": {
@@ -223,7 +223,7 @@
       "200 ml double cream"
     ],
     "category": "American",
-    "image": "key-lime-pie.jpg",
+    "image": "publish-recipe.jpg",
     "__v": 0
   },{
     "_id": {
@@ -240,7 +240,7 @@
       "2 tablespoons mayonnaise , made using free-range eggs"
     ],
     "category": "American",
-    "image": "grilled-lobster-rolls.jpg",
+    "image": "chocko.jpg",
     "__v": 0
   },{
     "_id": {
@@ -257,7 +257,7 @@
       "Brussels sprouts, Brussels tops, kale, cabbage, broccoli"
     ],
     "category": "Thai",
-    "image": "thai-green-curry.jpg",
+    "image": "spicy.jpg",
     "__v": 0
   },{
     "_id": {
@@ -275,7 +275,7 @@
       "a few shiitake mushrooms"
     ],
     "category": "Chinese",
-    "image": "stir-fried-vegetables.jpg",
+    "image": "spicy.jpg",
     "__v": 0
   },{
     "_id": {
@@ -288,6 +288,6 @@
       "Water"
     ],
     "category": "Mexican",
-    "image": "chinese-steak-tofu-stew.jpg",
+    "image": "spicy.jpg",
     "__v": 0
   }]

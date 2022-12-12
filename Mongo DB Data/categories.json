@@ -17,14 +17,14 @@
       "$oid": "614dd75a9693912a00f0514c"
     },
     "name": "Thai",
-    "image": "chocko-food.jpg",
+    "image": "chocko.jpg",
     "__v": 0
   },{
     "_id": {
       "$oid": "614dd75a9693912a00f0514f"
     },
     "name": "Indian",
-    "image": "indian-food.jpg",
+    "image": "indian.jpg",
     "__v": 0
   },{
     "_id": {
